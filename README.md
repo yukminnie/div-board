@@ -1,1 +1,1 @@
-# canvas-board
+# div-board
